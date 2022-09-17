@@ -1,0 +1,28 @@
+/* #submit {
+    background-color: limegreen;
+  }
+  
+  .jumbotron {
+    margin-top: 50px;
+    background-color: snow;
+  }
+  .card {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: orchid;
+  }
+  
+  hr {
+    width: 70%;
+  }
+<<<<<<< HEAD
+   */
+=======
+   */
+   .flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)

@@ -1,0 +1,74 @@
+[
+
+    {
+        "date": "2022-07-14",
+        "description": "hello",
+<<<<<<< HEAD
+        "cashAdd" : 1113,
+        "expense" :  31313,
+=======
+        "cashAdd" : 15,
+        "expense" :  10,
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)
+        "balanceRs": 2000
+    },
+
+    {
+        "date": "2022-07-14",
+        "description": "hello",
+<<<<<<< HEAD
+        "cashAdd" : 1113,
+        "expense" :  31313,
+        "balanceRs": 1000
+=======
+        "cashAdd" : 20,
+        "expense" :  10,
+        "balanceRs": 500
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)
+    },
+
+    {
+        "date": "2022-07-14",
+        "description": "hello",
+<<<<<<< HEAD
+        "cashAdd" : 1113,
+        "expense" :  31313,
+        "balanceRs": 1000
+=======
+        "cashAdd" : 30,
+        "expense" :  15,
+        "balanceRs": 200
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)
+    },
+      
+    {
+      "date": "2022-07-14",
+      "description": "hello",
+<<<<<<< HEAD
+      "cashAdd" : 1113,
+      "expense" :  31313,
+      "balanceRs": 1000
+=======
+      "cashAdd" : 40,
+      "expense" :  20,
+      "balanceRs": 800
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)
+  },
+          
+  {
+    "date": "2022-07-14",
+<<<<<<< HEAD
+    "description": "hello",
+    "cashAdd" : 1113,
+    "expense" :  31313,
+    "balanceRs": 1000
+=======
+    "description": "abcc",
+    "cashAdd" : 50,
+    "expense" :  25,
+    "balanceRs": 2400
+>>>>>>> 65211c3 (updated filesgit remote add origin https://github.com/humailsaleem123/Balance-Sheet-React.git)
+}
+
+
+]
